@@ -1,6 +1,8 @@
 # lucky-web
 一个爬虫+web项目  
 爬取TX视频，qiy,uk的搜索功能和视频列表并向外提供接口和解析视频
+# 项目演示
+[lucky_app](https://github.com/1431241631/lucky_app)
 # 项目依赖
 [aiohttp](https://docs.aiohttp.org/)  
 [fastapi](https://fastapi.tiangolo.com/)  
